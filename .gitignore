@@ -6,3 +6,4 @@ scan.bat
 .scannerwork
 coverage.xml
 .pytest_cache
+.coverage
