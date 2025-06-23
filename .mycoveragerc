@@ -1,4 +1,5 @@
 [run]
 omit = 
     test_*.py
+    coverage.xml
 
