@@ -2,4 +2,3 @@ Flask
 pytest
 flask_wtf
 pytest-cov
-coverage
