@@ -6,3 +6,4 @@ scan.sh
 .venv
 .scannerwork
 coverage.xml
+.sonar/
