@@ -7,3 +7,4 @@ scan.sh
 .scannerwork
 coverage.xml
 .sonar/
+liz.sh
